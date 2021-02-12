@@ -5,7 +5,11 @@ html {
 .card {
     font-family: Garamond;
     background-color: ivory;
+}
 
+.card-title {
+    color:black;
+    font-weight: bold;
 }
 
 .carousel-item {
@@ -20,9 +24,7 @@ html {
 
 .navbar-brand {
     font-size: larger;
-    
     height: 80px;
-
 }
 
 .project-image {
@@ -30,3 +32,7 @@ html {
     width: 100%;
 }
 
+.personal-image{
+
+    max-width: 50%;
+}
