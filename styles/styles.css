@@ -9,8 +9,7 @@ html {
 }
 
 .card-title {
-    color:black;
-    font-weight: bold;
+    font-weight: bolder;
 }
 
 .carousel-item {
@@ -35,4 +34,7 @@ html {
 
 .personal-image {
     width: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
