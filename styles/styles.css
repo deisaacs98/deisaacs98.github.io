@@ -5,7 +5,7 @@ html {
 .card {
     font-family: Garamond;
     background-color: ivory;
-    width: 50%;
+
 }
 
 .carousel-item {
@@ -14,7 +14,15 @@ html {
 
 .navbar {
     font-family: Garamond;
+    font-size: large;
     background-color: #2b1400;
+}
+
+.navbar-brand {
+    font-size: larger;
+    
+    height: 80px;
+
 }
 
 .project-image {
